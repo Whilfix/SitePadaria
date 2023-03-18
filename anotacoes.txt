@@ -1,0 +1,13 @@
+#594B40
+#6A4A3D
+#9E8F7C
+#C1B4AB
+#CACCC9
+#8E6E59
+#9E9A8F
+#7A6E62
+#C9C7BA
+#DFDAD4
+
+slider de imagens 
+https://www.criandobits.com.br/banner-rotativo-com-efeitos-de-transicao-em-java-script/
